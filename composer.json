@@ -68,13 +68,7 @@
             "type": "vcs",
             "url": "https://github.com/mukhila/chotworks-laraware.git"
         },
-         {
-    "type": "path",
-    "url": "../chotworks-laraware",
-    "options": {
-      "symlink": true
-    }
-  }
+  
     ],
     "scripts": {
         "post-autoload-dump": [
