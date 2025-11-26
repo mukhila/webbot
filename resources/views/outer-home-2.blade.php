@@ -52,8 +52,8 @@
           <a href="#contact" class="opacity-80 hover:opacity-100">Contact</a>
         </nav>
         <div class="flex flex-wrap items-center gap-2">
-          <a href="https://wabot.grekam.in/auth/register/vendor" target="_blank" class="btn-outline whitespace-nowrap">Register</a>
-          <a href="https://wabot.grekam.in/auth/login" target="_self" class="btn-primary whitespace-nowrap">Login</a>
+          <a href="https://globalexpohub.in/auth/register/vendor" target="_blank" class="btn-outline whitespace-nowrap">Register</a>
+          <a href="https://globalexpohub.in/auth/login" target="_self" class="btn-primary whitespace-nowrap">Login</a>
         </div>
       </div>
     </div>
@@ -71,8 +71,8 @@
           <p class="mt-3 text-lg opacity-80">Business-ஐ 24/7 WhatsApp-ல run பண்ணும் time வந்துடுச்சு</p>
           <p class="mt-3 opacity-70">Reply instantly, sell automatically, and manage 1000s of customers – all inside WhatsApp.</p>
           <div class="mt-6 flex flex-wrap gap-3">
-            <a href="https://wabot.grekam.in/auth/login" target="_self" class="btn-primary">Start Free Trial</a>
-            <a href="https://wabot.grekam.in/auth/login" target="_blank" class="btn-secondary">Book a Demo</a>
+            <a href="https://globalexpohub.in/auth/login" target="_self" class="btn-primary">Start Free Trial</a>
+            <a href="https://globalexpohub.in/auth/login" target="_blank" class="btn-secondary">Book a Demo</a>
           </div>
         </div>
         <div class="relative reveal-scale">
@@ -167,7 +167,7 @@
           </div>
           <div class="mt-4 flex flex-wrap justify-between gap-3">
             <button id="resetCalc" class="btn-secondary">Reset</button>
-            <a href="https://wabot.grekam.in/auth/login" target="_self" class="btn-primary">Start Free Trial</a>
+            <a href="https://globalexpohub.in/auth/login" target="_self" class="btn-primary">Start Free Trial</a>
           </div>
         </div>
         <div class="glass rounded-2xl p-6 reveal-scale">
@@ -208,7 +208,7 @@
             <li>• 200 Conversations / month</li><li>• 20 Template messages</li><li>• ✕ Chatbot & auto-replies</li><li>• 1 Team member</li><li>• ✕ Multiple phone numbers</li>
           </ul>
           <div class="mt-6">
-            <a target="_self" href="https://wabot.grekam.in/auth/login" class="btn-primary">Get Started Free</a>
+            <a target="_self" href="https://globalexpohub.in/auth/login" class="btn-primary">Get Started Free</a>
           </div>
         </div>
         <div class="glass relative rounded-2xl p-6 ring-2 ring-[hsl(var(--brand-secondary))]">
@@ -220,7 +220,7 @@
             <li>• 1,000 Conversations / month</li><li>• 200 Template messages</li><li>• ✓ Chatbot & auto-replies</li><li>• 3 Team members</li><li>• ✓ Multiple phone numbers</li>
           </ul>
           <div class="mt-6">
-            <a target="_self" href="https://wabot.grekam.in/auth/login" class="btn-primary">Start 14-Day Trial</a>
+            <a target="_self" href="https://globalexpohub.in/auth/login" class="btn-primary">Start 14-Day Trial</a>
           </div>
         </div>
         <div class="glass relative rounded-2xl p-6">
@@ -231,7 +231,7 @@
             <li>• Unlimited Conversations</li><li>• Unlimited Templates</li><li>• ✓ Advanced chatbot features</li><li>• 10 Team members</li><li>• ✓ Priority support</li>
           </ul>
           <div class="mt-6">
-            <a target="_self" href="https://wabot.grekam.in/auth/login" class="btn-primary">Start 14-Day Trial</a>
+            <a target="_self" href="https://globalexpohub.in/auth/login" class="btn-primary">Start 14-Day Trial</a>
           </div>
         </div>
         <div class="glass rounded-2xl p-6 lg:col-span-3" style="background:rgba(232, 255, 207, 1)">
@@ -243,7 +243,7 @@
                 <li>WhatsApp Messaging Charges</li><li>✓ All Professional features included</li><li>✓ Lifetime access with updates</li><li>✓ Priority onboarding & support</li><li>✓ No recurring subscription fees</li><li>✓ Advanced integrations & APIs</li>
               </ul>
             </div>
-            <a target="_self" href="https://wabot.grekam.in/auth/login" class="btn-secondary">Get Lifetime Access</a>
+            <a target="_self" href="https://globalexpohub.in/auth/login" class="btn-secondary">Get Lifetime Access</a>
           </div>
         </div>
       </div>
@@ -266,8 +266,8 @@
         <h2 class="text-3xl font-extrabold">Don’t just chat. Sell on WhatsApp.</h2>
         <p class="mt-2 text-lg">Automate. Scale. Grow. With Grekam Wabot</p>
         <div class="mt-6 flex flex-wrap justify-center gap-3">
-          <a href="https://wabot.grekam.in/auth/login" target="_self" class="btn-primary">Start Free Today</a>
-          <a href="https://wabot.grekam.in/auth/login" target="_blank" class="btn-secondary">Book a Demo</a>
+          <a href="https://globalexpohub.in/auth/login" target="_self" class="btn-primary">Start Free Today</a>
+          <a href="https://globalexpohub.in/auth/login" target="_blank" class="btn-secondary">Book a Demo</a>
         </div>
       </div>
     </section>
@@ -302,7 +302,7 @@
             <ul class="mt-2 space-y-1 text-sm opacity-80">
               <li>Email: support@grekam.in</li>
               <li>Website: www.grekam.in</li>
-              <li>Platform: wabot.grekam.in</li>
+              <li>Platform: globalexpohub.in</li>
               <li>Mobile: +91 978935 9407</li>
               <li>Location : Coimbatore, Tamilnadu, India</li>
             </ul>
@@ -311,7 +311,7 @@
             <h4 class="font-semibold">Quick Links</h4>
             <div class="mt-2 flex flex-wrap gap-2">
               <a href="#pricing" class="btn-primary px-4 py-2">View Pricing</a>
-              <a href="https://wabot.grekam.in/auth/login" target="_blank" class="btn-secondary px-4 py-2">Book a Demo</a>
+              <a href="https://globalexpohub.in/auth/login" target="_blank" class="btn-secondary px-4 py-2">Book a Demo</a>
             </div>
           </div>
         </div>
@@ -325,7 +325,7 @@
     <div class="glass reveal-up flex items-center justify-between gap-3 rounded-xl px-4 py-3">
       <span class="text-sm font-medium">Ready to automate on WhatsApp?</span>
       <div class="flex items-center gap-2">
-        <a href="https://wabot.grekam.in/auth/login" target="_blank" class="btn-primary">Start Free Trial</a>
+        <a href="https://globalexpohub.in/auth/login" target="_blank" class="btn-primary">Start Free Trial</a>
         <button aria-label="Dismiss" class="rounded-full border p-2 hover:bg-black/5" onclick="dismissSticky()">✕</button>
       </div>
     </div>

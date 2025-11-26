@@ -496,8 +496,8 @@
         <p class="subtitle" style="margin-top:12px">Meta-Verified Platform | Boost Sales by 200% | Automated Customer Engagement</p>
         
         <div class="hero-actions">
-          <a class="btn" href="https://wabot.grekam.in/auth/login">Start Free Trial</a>
-          <a class="btn secondary" href="https://wabot.grekam.in/auth/login">Get a Live Demo</a>
+          <a class="btn" href="https://globalexpohub.in/auth/login">Start Free Trial</a>
+          <a class="btn secondary" href="https://globalexpohub.in/auth/login">Get a Live Demo</a>
         </div>
         
         <div class="hero-image">
@@ -910,7 +910,7 @@
               <li>✕ Multiple phone numbers</li>
             </ul>
             <div style="margin-top:16px">
-              <a class="btn block" href="https://wabot.grekam.in/auth/login">Get Started Free</a>
+              <a class="btn block" href="https://globalexpohub.in/auth/login">Get Started Free</a>
             </div>
           </div>
           
@@ -935,7 +935,7 @@
               <li>✓ Multiple phone numbers</li>
             </ul>
             <div style="margin-top:16px">
-              <a class="btn block" href="https://wabot.grekam.in/auth/login">Start 14-Day Trial</a>
+              <a class="btn block" href="https://globalexpohub.in/auth/login">Start 14-Day Trial</a>
             </div>
           </div>
           
@@ -959,7 +959,7 @@
               <li>✓ Priority support</li>
             </ul>
             <div style="margin-top:16px">
-              <a class="btn block" href="https://wabot.grekam.in/auth/login">Start 14-Day Trial</a>
+              <a class="btn block" href="https://globalexpohub.in/auth/login">Start 14-Day Trial</a>
             </div>
           </div>
         </div>
@@ -983,7 +983,7 @@
             <li>✓ Advanced integrations & APIs</li>
           </ul>
           <div style="margin-top:16px">
-            <a class="btn block" href="https://wabot.grekam.in/auth/login">Get Lifetime Access</a>
+            <a class="btn block" href="https://globalexpohub.in/auth/login">Get Lifetime Access</a>
           </div>
         </div>
       </div>
@@ -1106,7 +1106,7 @@
         <p class="subtitle" style="margin-top:8px">Tell us about your needs and we'll reach out within 24 hours.</p>
         
         <div class="card card-pad" style="max-width:600px;margin:24px auto 0">
-          <form action="https://wabot.grekam.in/auth/login" method="get">
+          <form action="https://globalexpohub.in/auth/login" method="get">
             <div class="grid grid-2">
               <div>
                 <label>Full Name</label>
@@ -1146,8 +1146,8 @@
           </p>
           
           <div style="display:flex;gap:16px;justify-content:center;margin-top:20px;flex-wrap:wrap">
-            <a class="btn" href="https://wabot.grekam.in/auth/login" style="background:#fff;color:var(--primary)">Start Free Trial</a>
-            <a class="btn secondary" href="https://wabot.grekam.in/auth/login" style="border-color:rgba(255,255,255,0.3);color:#fff">Book Live Demo</a>
+            <a class="btn" href="https://globalexpohub.in/auth/login" style="background:#fff;color:var(--primary)">Start Free Trial</a>
+            <a class="btn secondary" href="https://globalexpohub.in/auth/login" style="border-color:rgba(255,255,255,0.3);color:#fff">Book Live Demo</a>
           </div>
           
           <div class="small" style="margin-top:12px;opacity:0.8">
@@ -1161,8 +1161,8 @@
   <!-- Mobile Sticky CTA -->
   <div class="sticky-cta">
     <div class="container" style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap">
-      <a class="btn" href="https://wabot.grekam.in/auth/login" style="flex:1;max-width:150px">Start Trial</a>
-      <a class="btn secondary" href="https://wabot.grekam.in/auth/login" style="flex:1;max-width:150px">Book Demo</a>
+      <a class="btn" href="https://globalexpohub.in/auth/login" style="flex:1;max-width:150px">Start Trial</a>
+      <a class="btn secondary" href="https://globalexpohub.in/auth/login" style="flex:1;max-width:150px">Book Demo</a>
     </div>
   </div>
 
@@ -1192,7 +1192,7 @@
             <ul>
               <li><a href="#pricing">Solutions</a></li>
               <li><a href="#faq">FAQ</a></li>
-              <li><a href="https://wabot.grekam.in/auth/login">Live Demo</a></li>
+              <li><a href="https://globalexpohub.in/auth/login">Live Demo</a></li>
               <li><a href="https://www.grekam.in" target="_blank" rel="noreferrer">Academy</a></li>
             </ul>
           </div>
