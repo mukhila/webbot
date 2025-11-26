@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "chotworks/laraware": "@dev",
+        "chotworks/laraware": "dev-main",
         "dompdf/dompdf": "3.1.0",
         "endroid/qr-code": "^5.0",
         "gettext/gettext": "^5.7.3",
@@ -63,6 +63,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/livelyworks/Gettext-Blade"
+        },
+		{
+            "type": "vcs",
+            "url": "https://github.com/mukhila/chotworks-laraware.git"
         },
          {
     "type": "path",
