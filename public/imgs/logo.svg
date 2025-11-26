@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Visuals" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 148.72 55.09">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #2f827a;
+      }
+
+      .st1 {
+        fill: #231f20;
+        font-size: 30.71px;
+      }
+
+      .st1, .st2 {
+        font-family: TikalSansMedium, 'Tikal Sans ';
+      }
+
+      .st2 {
+        fill: #1d9b48;
+        font-size: 18.52px;
+        stroke: #1d9b48;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M44.24,20.81c-.13-.01-.27-.01-.4-.01h-2.73s-2.89-.01-2.88,0h-5.94c-.42,0-.84.04-1.24.12-.01,0-.03,0-.04.01-2.98.59-5.23,3.22-5.23,6.38v.5c0,3.59,2.92,6.5,6.51,6.5h2.73c.35.16.68.38.95.66.32.31.57.7.74,1.12-2.51,3.14-6.33,5.15-10.6,5.15-7.54,0-13.67-6.27-13.67-13.97s6.13-13.98,13.67-13.98c2.57,0,4.97.72,7.02,1.99l2.34-1.57s-.02-.01-.03-.02c.02,0,.03,0,.05,0l2.46-1.66c-4.66-3.72-10.99-5.3-17.48-3.28-12.18,3.79-17.42,18.69-10.42,29.59-.8,2.84-1.71,5.67-2.42,8.53l8.66-2.42c10.47,6.34,23.97,1.19,27.96-10.16,3.4-.21,6.1-3.04,6.1-6.49v-.5c0-3.46-2.7-6.29-6.11-6.5Z"/>
+  <text class="st1" transform="translate(41.61 44.1)"><tspan x="0" y="0" xml:space="preserve"> rekam</tspan></text>
+  <text class="st2" transform="translate(83.43 22.77)"><tspan x="0" y="0">wabot</tspan></text>
+</svg>
