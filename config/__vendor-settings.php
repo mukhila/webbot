@@ -120,7 +120,7 @@ return [
             'timezone' => [
                 'key' => 'timezone',
                 'data_type' => 1,    // string
-                'default' => 'UTC',
+                'default' => 'Asia/Kolkata',
                 'validation_rules' => [
                     'required',
                 ],
@@ -158,7 +158,7 @@ return [
             'bot_timing_timezone' => [
                 'key' => 'bot_timing_timezone',
                 'data_type' => 1,    // string
-                'default' => 'UTC',
+                'default' => 'Asia/Kolkata',
                 'hide_value' => false,
                 'ignore_empty' => false,
                 'validation_rules' => [

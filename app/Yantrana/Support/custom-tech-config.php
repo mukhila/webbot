@@ -8,7 +8,7 @@ if(isset($_GET['lang']) and $_GET['lang']) {
     changeAppLocale();
 }
 // default time zone
-$timeZone = 'UTC';
+$timeZone = 'Asia/Kolkata';
 
 date_default_timezone_set($timeZone);
 

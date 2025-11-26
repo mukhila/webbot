@@ -204,7 +204,7 @@ class CampaignEngine extends BaseEngine implements CampaignEngineInterface
         $campaign = $this->campaignRepository->getCampaignData($campaignIdOrUid);
         // if record found
         abortIf(__isEmpty($campaign));
-        $rawTime = Carbon::parse($campaign->scheduled_at, 'UTC');
+        $rawTime = Carbon::parse($campaign->scheduled_at, 'Asia/Kolkata');
         $scheduleAt = $rawTime->setTimezone($campaign->timezone);
         $campaign->scheduled_at_by_timezone = $scheduleAt;
         $statusText = __tr('Upcoming');

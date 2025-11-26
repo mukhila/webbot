@@ -586,7 +586,7 @@ class WhatsAppServiceEngine extends BaseEngine implements WhatsAppServiceEngineI
         if ($scheduleAt) {
             try {
                 $rawTime = Carbon::createFromFormat('Y-m-d\TH:i:s', $scheduleAt, $timezone);
-                $scheduleAt = $rawTime->setTimezone('UTC');
+                $scheduleAt = $rawTime->setTimezone('Asia/Kolkata');
             } catch (\Throwable $th) {
                 return $this->engineFailedResponse([], __tr('Failed to recognize the datetime, please reload and try again.'));
             }
@@ -601,7 +601,7 @@ class WhatsAppServiceEngine extends BaseEngine implements WhatsAppServiceEngineI
         if ($expireAt) {
             try {
                 $expireAtRawTime = Carbon::createFromFormat('Y-m-d\TH:i:s', $expireAt, $timezone);
-                $expireAt = $expireAtRawTime->setTimezone('UTC')->toDateTimeString();
+                $expireAt = $expireAtRawTime->setTimezone('Asia/Kolkata')->toDateTimeString();
             } catch (\Throwable $th) {
                 return $this->engineFailedResponse([], __tr('Failed to recognize the datetime, please reload and try again.'));
             }

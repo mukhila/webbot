@@ -30,7 +30,7 @@
                         :label="__tr('Daily End Time')" value="{{ getVendorSettings('bot_end_timing') }}" name="bot_end_timing" />
                     </div>
                     <div class="col-md-4 col-lg-3">
-                        <x-lw.input-field  type="selectize" data-form-group-class="" name="bot_timing_timezone" :label="__tr('Select your Timezone')" data-selected="{{ (getVendorSettings('bot_timing_timezone') != 'UTC') ? getVendorSettings('bot_timing_timezone') : getVendorSettings('timezone') }}">
+                        <x-lw.input-field  type="selectize" data-form-group-class="" name="bot_timing_timezone" :label="__tr('Select your Timezone')" data-selected="{{ (getVendorSettings('bot_timing_timezone') != 'Asia/Kolkata') ? getVendorSettings('bot_timing_timezone') : getVendorSettings('timezone') }}">
                             <x-slot name="selectOptions">
                                 @foreach (getTimezonesArray() as $timezone)
                                     <option value="{{ $timezone['value'] }}">{{ $timezone['text'] }}</option>

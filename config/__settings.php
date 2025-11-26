@@ -104,7 +104,7 @@ return [
             'timezone' => [
                 'key' => 'timezone',
                 'data_type' => 1,    // string
-                'default' => 'UTC',
+                'default' => 'Asia/Kolkata',
             ],
             
         ],
