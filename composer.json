@@ -59,16 +59,15 @@
             "Tests\\": "tests/"
         }
     },
-    "repositories": [
+"repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/livelyworks/Gettext-Blade"
         },
-		{
+        {
             "type": "vcs",
             "url": "https://github.com/mukhila/chotworks-laraware.git"
-        },
-  
+        }
     ],
     "scripts": {
         "post-autoload-dump": [
